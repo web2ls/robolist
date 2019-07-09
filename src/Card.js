@@ -1,13 +1,12 @@
 import React from 'react';
-import { directive } from '@babel/types';
 
-const Card = () => {
+const Card = ({id, name, email}) => {
     return (
-        <div className='card'>
-            <img src='https://robohash.org/test?200x200' alt='' />
+        <div className='tc bg-light-green dib br3 pa3 ma2 grow bw2 shadow-5'>
+            <img src={`https://robohash.org/${id}?200x200`} alt=' robo' />
             <div>
-                <p>John Doe</p>
-                <p>johndoe@mail.com</p>
+                <p>{name}</p>
+                <p>{email}</p>
             </div>
         </div>
     )

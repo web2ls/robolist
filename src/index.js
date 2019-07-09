@@ -1,14 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'tachyons';
 import './index.css';
-import Card from './Card';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
     <div>
-        <Card />
-        <Card />
-        <Card />
+        <App />
     </div>, 
     document.getElementById('root'));
 
