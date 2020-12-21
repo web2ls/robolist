@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/robolist/static/css/main.0e9a2d4e.chunk.css",
+    "main.js": "/robolist/static/js/main.bb9ea581.chunk.js",
+    "main.js.map": "/robolist/static/js/main.bb9ea581.chunk.js.map",
+    "runtime-main.js": "/robolist/static/js/runtime-main.bade6dcb.js",
+    "runtime-main.js.map": "/robolist/static/js/runtime-main.bade6dcb.js.map",
+    "static/css/2.31461e4f.chunk.css": "/robolist/static/css/2.31461e4f.chunk.css",
+    "static/js/2.2a75c71a.chunk.js": "/robolist/static/js/2.2a75c71a.chunk.js",
+    "static/js/2.2a75c71a.chunk.js.map": "/robolist/static/js/2.2a75c71a.chunk.js.map",
+    "index.html": "/robolist/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/robolist/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.0e9a2d4e.chunk.css.map": "/robolist/static/css/main.0e9a2d4e.chunk.css.map",
+    "static/js/2.2a75c71a.chunk.js.LICENSE.txt": "/robolist/static/js/2.2a75c71a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robolist/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bade6dcb.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.2a75c71a.chunk.js",
+    "static/css/main.0e9a2d4e.chunk.css",
+    "static/js/main.bb9ea581.chunk.js"
+  ]
+}
